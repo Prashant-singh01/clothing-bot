@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return products within 7 days of delivery."
+  },
+  {
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, we offer free shipping on orders above ₹999."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "You can track your order from the My Orders page using your order ID."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept UPI, credit/debit cards, net banking, and wallets."
+  }
+]
